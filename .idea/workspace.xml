@@ -4,7 +4,9 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="db0e2d7d-99ab-43ac-9094-fc3e5f84241b" name="Changes" comment="feat (Min.java) : create class Min and methods" />
+    <list default="true" id="db0e2d7d-99ab-43ac-9094-fc3e5f84241b" name="Changes" comment="feat (MinAsk.java) : create class MinAsk and methods">
+      <change afterPath="$PROJECT_DIR$/Stock-Ascii-Java/src/main/java/edu/badpals/stockx/Criteria/Sales.java" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -169,7 +171,15 @@
       <option name="project" value="LOCAL" />
       <updated>1717604882402</updated>
     </task>
-    <option name="localTasksCounter" value="15" />
+    <task id="LOCAL-00015" summary="feat (MinAsk.java) : create class MinAsk and methods">
+      <option name="closed" value="true" />
+      <created>1717604953827</created>
+      <option name="number" value="00015" />
+      <option name="presentableId" value="LOCAL-00015" />
+      <option name="project" value="LOCAL" />
+      <updated>1717604953827</updated>
+    </task>
+    <option name="localTasksCounter" value="16" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
@@ -187,6 +197,7 @@
     <MESSAGE value="feat (Max.java) : create class Max and methods" />
     <MESSAGE value="feat (MaxBid.java) : create class MaxBid and methods" />
     <MESSAGE value="feat (Min.java) : create class Min and methods" />
-    <option name="LAST_COMMIT_MESSAGE" value="feat (Min.java) : create class Min and methods" />
+    <MESSAGE value="feat (MinAsk.java) : create class MinAsk and methods" />
+    <option name="LAST_COMMIT_MESSAGE" value="feat (MinAsk.java) : create class MinAsk and methods" />
   </component>
 </project>
