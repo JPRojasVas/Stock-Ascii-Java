@@ -4,8 +4,8 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="db0e2d7d-99ab-43ac-9094-fc3e5f84241b" name="Changes" comment="feat (Bid.java) : create class Bid and add attributes and methods">
-      <change afterPath="$PROJECT_DIR$/Stock-Ascii-Java/src/main/java/edu/badpals/stockx/offer/Offer.java" afterDir="false" />
+    <list default="true" id="db0e2d7d-99ab-43ac-9094-fc3e5f84241b" name="Changes" comment="feat (Offer.java) : create class Offer and add attributes">
+      <change afterPath="$PROJECT_DIR$/Stock-Ascii-Java/src/main/java/edu/badpals/stockx/offer/Sale.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -91,7 +91,15 @@
       <option name="project" value="LOCAL" />
       <updated>1717603344205</updated>
     </task>
-    <option name="localTasksCounter" value="5" />
+    <task id="LOCAL-00005" summary="feat (Offer.java) : create class Offer and add attributes">
+      <option name="closed" value="true" />
+      <created>1717603406665</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1717603406665</updated>
+    </task>
+    <option name="localTasksCounter" value="6" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
@@ -99,6 +107,7 @@
     <MESSAGE value="feat (Sneaker.java) : create class Sneaker and add attributes" />
     <MESSAGE value="feat (Ask.java) : create class Ask and add attributes and methods" />
     <MESSAGE value="feat (Bid.java) : create class Bid and add attributes and methods" />
-    <option name="LAST_COMMIT_MESSAGE" value="feat (Bid.java) : create class Bid and add attributes and methods" />
+    <MESSAGE value="feat (Offer.java) : create class Offer and add attributes" />
+    <option name="LAST_COMMIT_MESSAGE" value="feat (Offer.java) : create class Offer and add attributes" />
   </component>
 </project>
