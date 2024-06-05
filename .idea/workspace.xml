@@ -4,7 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="db0e2d7d-99ab-43ac-9094-fc3e5f84241b" name="Changes" comment="feat (Asks.java) : create class Asks and add attributes and method" />
+    <list default="true" id="db0e2d7d-99ab-43ac-9094-fc3e5f84241b" name="Changes" comment="feat (Min.java) : create class Min and methods" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -129,7 +129,47 @@
       <option name="project" value="LOCAL" />
       <updated>1717604549660</updated>
     </task>
-    <option name="localTasksCounter" value="10" />
+    <task id="LOCAL-00010" summary="feat (Bids.java) : create class Bids and add attributes and method">
+      <option name="closed" value="true" />
+      <created>1717604594338</created>
+      <option name="number" value="00010" />
+      <option name="presentableId" value="LOCAL-00010" />
+      <option name="project" value="LOCAL" />
+      <updated>1717604594338</updated>
+    </task>
+    <task id="LOCAL-00011" summary="feat (LastSale.java) : create class LastSale and methods">
+      <option name="closed" value="true" />
+      <created>1717604725837</created>
+      <option name="number" value="00011" />
+      <option name="presentableId" value="LOCAL-00011" />
+      <option name="project" value="LOCAL" />
+      <updated>1717604725837</updated>
+    </task>
+    <task id="LOCAL-00012" summary="feat (Max.java) : create class Max and methods">
+      <option name="closed" value="true" />
+      <created>1717604782222</created>
+      <option name="number" value="00012" />
+      <option name="presentableId" value="LOCAL-00012" />
+      <option name="project" value="LOCAL" />
+      <updated>1717604782222</updated>
+    </task>
+    <task id="LOCAL-00013" summary="feat (MaxBid.java) : create class MaxBid and methods">
+      <option name="closed" value="true" />
+      <created>1717604840973</created>
+      <option name="number" value="00013" />
+      <option name="presentableId" value="LOCAL-00013" />
+      <option name="project" value="LOCAL" />
+      <updated>1717604840973</updated>
+    </task>
+    <task id="LOCAL-00014" summary="feat (Min.java) : create class Min and methods">
+      <option name="closed" value="true" />
+      <created>1717604882402</created>
+      <option name="number" value="00014" />
+      <option name="presentableId" value="LOCAL-00014" />
+      <option name="project" value="LOCAL" />
+      <updated>1717604882402</updated>
+    </task>
+    <option name="localTasksCounter" value="15" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
@@ -142,6 +182,11 @@
     <MESSAGE value="refactor (Stockx.java) : copy app" />
     <MESSAGE value="refactor (Criteria.java) : create class Criteria and add method" />
     <MESSAGE value="feat (Asks.java) : create class Asks and add attributes and method" />
-    <option name="LAST_COMMIT_MESSAGE" value="feat (Asks.java) : create class Asks and add attributes and method" />
+    <MESSAGE value="feat (Bids.java) : create class Bids and add attributes and method" />
+    <MESSAGE value="feat (LastSale.java) : create class LastSale and methods" />
+    <MESSAGE value="feat (Max.java) : create class Max and methods" />
+    <MESSAGE value="feat (MaxBid.java) : create class MaxBid and methods" />
+    <MESSAGE value="feat (Min.java) : create class Min and methods" />
+    <option name="LAST_COMMIT_MESSAGE" value="feat (Min.java) : create class Min and methods" />
   </component>
 </project>
