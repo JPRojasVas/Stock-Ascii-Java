@@ -4,10 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="db0e2d7d-99ab-43ac-9094-fc3e5f84241b" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/Stock-Ascii-Java/src/main/java/edu/badpals/stockx/item/Item.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-    </list>
+    <list default="true" id="db0e2d7d-99ab-43ac-9094-fc3e5f84241b" name="Changes" comment="feat (Ask.java) : create class Ask and add attributes and methods" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -60,6 +57,37 @@
       <option name="presentableId" value="Default" />
       <updated>1717601466253</updated>
     </task>
+    <task id="LOCAL-00001" summary="feat (Item.java) : create class Item and add attributes">
+      <option name="closed" value="true" />
+      <created>1717603040923</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1717603040923</updated>
+    </task>
+    <task id="LOCAL-00002" summary="feat (Sneaker.java) : create class Sneaker and add attributes">
+      <option name="closed" value="true" />
+      <created>1717603186341</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1717603186341</updated>
+    </task>
+    <task id="LOCAL-00003" summary="feat (Ask.java) : create class Ask and add attributes and methods">
+      <option name="closed" value="true" />
+      <created>1717603270984</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1717603270984</updated>
+    </task>
+    <option name="localTasksCounter" value="4" />
     <servers />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="feat (Item.java) : create class Item and add attributes" />
+    <MESSAGE value="feat (Sneaker.java) : create class Sneaker and add attributes" />
+    <MESSAGE value="feat (Ask.java) : create class Ask and add attributes and methods" />
+    <option name="LAST_COMMIT_MESSAGE" value="feat (Ask.java) : create class Ask and add attributes and methods" />
   </component>
 </project>
