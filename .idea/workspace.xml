@@ -4,9 +4,8 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="db0e2d7d-99ab-43ac-9094-fc3e5f84241b" name="Changes" comment="feat (Size.java) : create class Size and methods">
-      <change afterPath="$PROJECT_DIR$/Stock-Ascii-Java/src/main/java/edu/badpals/stockx/Criteria/AndCriteria.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Stock-Ascii-Java/src/main/java/edu/badpals/stockx/Stockx.java" beforeDir="false" afterPath="$PROJECT_DIR$/Stock-Ascii-Java/src/main/java/edu/badpals/stockx/Stockx.java" afterDir="false" />
+    <list default="true" id="db0e2d7d-99ab-43ac-9094-fc3e5f84241b" name="Changes" comment="feat (AndCriteria.java) : create class AndCriteria and methods">
+      <change beforePath="$PROJECT_DIR$/Stock-Ascii-Java/src/test/java/edu/badpals/stockx/AppTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/Stock-Ascii-Java/src/test/java/edu/badpals/stockx/StocxTest.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -196,7 +195,15 @@
       <option name="project" value="LOCAL" />
       <updated>1717605329135</updated>
     </task>
-    <option name="localTasksCounter" value="18" />
+    <task id="LOCAL-00018" summary="feat (AndCriteria.java) : create class AndCriteria and methods">
+      <option name="closed" value="true" />
+      <created>1717605519377</created>
+      <option name="number" value="00018" />
+      <option name="presentableId" value="LOCAL-00018" />
+      <option name="project" value="LOCAL" />
+      <updated>1717605519377</updated>
+    </task>
+    <option name="localTasksCounter" value="19" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
@@ -217,6 +224,7 @@
     <MESSAGE value="feat (MinAsk.java) : create class MinAsk and methods" />
     <MESSAGE value="feat (Sales.java) : create class Sales and methods" />
     <MESSAGE value="feat (Size.java) : create class Size and methods" />
-    <option name="LAST_COMMIT_MESSAGE" value="feat (Size.java) : create class Size and methods" />
+    <MESSAGE value="feat (AndCriteria.java) : create class AndCriteria and methods" />
+    <option name="LAST_COMMIT_MESSAGE" value="feat (AndCriteria.java) : create class AndCriteria and methods" />
   </component>
 </project>
