@@ -4,9 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="db0e2d7d-99ab-43ac-9094-fc3e5f84241b" name="Changes" comment="refactor (Stockx.java) : copy app">
-      <change afterPath="$PROJECT_DIR$/Stock-Ascii-Java/src/main/java/edu/badpals/stockx/Criteria/Criteria.java" afterDir="false" />
-    </list>
+    <list default="true" id="db0e2d7d-99ab-43ac-9094-fc3e5f84241b" name="Changes" comment="feat (Asks.java) : create class Asks and add attributes and method" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -115,7 +113,23 @@
       <option name="project" value="LOCAL" />
       <updated>1717603600682</updated>
     </task>
-    <option name="localTasksCounter" value="8" />
+    <task id="LOCAL-00008" summary="refactor (Criteria.java) : create class Criteria and add method">
+      <option name="closed" value="true" />
+      <created>1717603740982</created>
+      <option name="number" value="00008" />
+      <option name="presentableId" value="LOCAL-00008" />
+      <option name="project" value="LOCAL" />
+      <updated>1717603740982</updated>
+    </task>
+    <task id="LOCAL-00009" summary="feat (Asks.java) : create class Asks and add attributes and method">
+      <option name="closed" value="true" />
+      <created>1717604549660</created>
+      <option name="number" value="00009" />
+      <option name="presentableId" value="LOCAL-00009" />
+      <option name="project" value="LOCAL" />
+      <updated>1717604549660</updated>
+    </task>
+    <option name="localTasksCounter" value="10" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
@@ -126,6 +140,8 @@
     <MESSAGE value="feat (Offer.java) : create class Offer and add attributes" />
     <MESSAGE value="feat (Sale.java) : create class Sale and add attributes and methods" />
     <MESSAGE value="refactor (Stockx.java) : copy app" />
-    <option name="LAST_COMMIT_MESSAGE" value="refactor (Stockx.java) : copy app" />
+    <MESSAGE value="refactor (Criteria.java) : create class Criteria and add method" />
+    <MESSAGE value="feat (Asks.java) : create class Asks and add attributes and method" />
+    <option name="LAST_COMMIT_MESSAGE" value="feat (Asks.java) : create class Asks and add attributes and method" />
   </component>
 </project>
